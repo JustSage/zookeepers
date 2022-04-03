@@ -24,11 +24,11 @@ hs_err_pid*
 replay_pid*
 
 # intelliJ idea
-.idea
+#.idea
 
-# maven 
-*.iml
-*.xml
+# maven
+#*.iml
+#*.xml
 
 # macOS generated file
 .DS_Store
